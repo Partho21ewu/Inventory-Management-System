@@ -1,7 +1,5 @@
 # Inventory-Management-System
 
-# Inventory Management System
-
 ## Overview
 
 The Inventory Management System is a retail store management application developed in C. The system provides inventory control, employee management, customer billing, and role-based authentication for managers and sales personnel.
